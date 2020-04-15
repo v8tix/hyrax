@@ -1,0 +1,3 @@
+TAG="0.0.6.v20200415"
+IMAGE="hyrax"
+IMAGE_TAG=""${IMAGE}":"${TAG}""
