@@ -1,3 +1,3 @@
-TAG="0.0.7.v20200415"
+TAG="0.0.8.v20200416"
 IMAGE="hyrax"
 IMAGE_TAG=""${IMAGE}":"${TAG}""
