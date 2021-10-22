@@ -1,3 +1,0 @@
-TAG="0.0.9.v20200416"
-IMAGE="hyrax"
-IMAGE_TAG=""${IMAGE}":"${TAG}""
